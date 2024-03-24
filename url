@@ -27,7 +27,7 @@
   "alterId" : "",
   "upmbps" : "",
   "keepalive" : "",
-  "port" : "443",
+  "port" : 443,
   "obfs" : "none",
   "dns" : "",
   "publicKey" : "E9XhF2mBNkYVOe-0RZrbFndnAPuV7h5SuNzhraOqiAE",
